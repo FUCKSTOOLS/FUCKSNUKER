@@ -1,12 +1,12 @@
 <div align="center">
 
-# ⚛️ ShadowNuker V1.5 💻
-  » [discord server](https://discord.gg/2S5hRh9xGb) «
+# ⚛️ FaxksNuker V1.5 💻
+  » [discord server](https://discord.gg/jutuGtPUuR) «
 </div>
 
 ## <a id="Presentation"></a>🤖 » Presentation
-### What is ShadowNuker ? 
-ShadowNuker is the future of discord raider bots. In addition to having great efficiency and numerous commands, it is controlled via panel which allows you to destroy it as anonymously as possible. and its really fast so you can easily make anything you want within seconds
+### What is FUXKSNuker ? 
+FUXKSNuker is the future of discord raider bots. In addition to having great efficiency and numerous commands, it is controlled via panel which allows you to destroy it as anonymously as possible. and its really fast so you can easily make anything you want within seconds
 
 ## <a id="Requirements"></a>💻 » Requirements
 - Python 3.10+
@@ -31,10 +31,10 @@ ShadowNuker is the future of discord raider bots. In addition to having great ef
 
 ## <a id="How To Use"></a>📜 » How To Use
 1. Install Python (3.10+) and add it to PATH.
-2. Download and extract latest ShadowNuker version.
+2. Download and extract latest FuxksNuker version.
 3. Install requirements → start file named setup.bat
 4. Config the `config.py` if you want.
-5. Run `ShadowNuker.py` in the cmd → `python ShadowNuker.py`.
+5. Run `FUXKSNUKER.py` in the cmd → `python ShadowNuker.py`.
 6. Enter Bot token and server id.
    ### ⚙️ » Custom config
    - you can customize your bot, there is code in config.py that sets the config of the bot and you can add your own icon, messages, and more
@@ -56,8 +56,6 @@ ShadowNuker is the future of discord raider bots. In addition to having great ef
 **Support for all peoples [discord server](https://discord.gg/2S5hRh9xGb).**
 
 ## <a id="Preview"></a>📷 » Preview 
-![image](https://i.ibb.co/990JnFY/Sn-mek-obrazovky-3.png)
-![image](https://i.ibb.co/JBGHRGt/Sn-mek-obrazovky-5.png)
+![image](https://cdn.discordapp.com/attachments/1252671026798788608/1252735728459452459/image.png?ex=66734c90&is=6671fb10&hm=17dd8157f64aeb5cc8068096682a12a5720704dcdb3a48748332ccd2def55ce2&)
 
 **Download it to discover all the features !** 
-
