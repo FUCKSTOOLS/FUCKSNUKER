@@ -53,7 +53,7 @@ FUXKSNuker is the future of discord raider bots. In addition to having great eff
    - Active the Developer Mode.
    - Now you can copy the server or user ID by right clicking on their profile and selecting "Copy Server/User ID".
 
-**Support for all peoples [discord server](https://discord.gg/2S5hRh9xGb).**
+**Support for all peoples [discord server](https://discord.gg/jutuGtPUuR).**
 
 ## <a id="Preview"></a>📷 » Preview 
 ![image](https://cdn.discordapp.com/attachments/1252671026798788608/1252735728459452459/image.png?ex=66734c90&is=6671fb10&hm=17dd8157f64aeb5cc8068096682a12a5720704dcdb3a48748332ccd2def55ce2&)
