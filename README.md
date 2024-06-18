@@ -57,5 +57,6 @@ FUXKSNuker is the future of discord raider bots. In addition to having great eff
 
 ## <a id="Preview"></a>📷 » Preview 
 ![image](https://cdn.discordapp.com/attachments/1252671026798788608/1252735728459452459/image.png?ex=66734c90&is=6671fb10&hm=17dd8157f64aeb5cc8068096682a12a5720704dcdb3a48748332ccd2def55ce2&)
+![image](https://cdn.discordapp.com/attachments/1252671026798788608/1252747407557398690/image.png?ex=66735770&is=667205f0&hm=db64dc5ef102f2c3e7733b6f759c1a496a9eb0abf62da6eb3fe877bcf40c8c0a&)
 
 **Download it to discover all the features !** 
